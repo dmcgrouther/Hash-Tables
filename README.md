@@ -11,7 +11,8 @@ For instance, the words "four", "none", and "dice" all have length four and woul
 
 What the hashing algorithm would also be able to do is find that a certain word is in a particular bucket. This helps effectively skip the line so that the developer can get to the correct bucket and search there.
 
-Real world example of hash tables
+Real world example of hash tables:
+
 Example 1.
 When you go bowling and you swap your shoes for bowling shoes. They take your shoes, put them in the bowling shoe box that includes your size, and give you the shoes and a token which has the size (hash) and the shoe pair number (element in the hash box).
 
