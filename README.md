@@ -13,3 +13,7 @@ What the hashing algorithm would also be able to do is find that a certain word 
 
 Example 1.
 When you go bowling and you swap your shoes for bowling shoes. They take your shoes, put them in the bowling shoe box that includes your size, and give you the shoes and a token which has the size (hash) and the shoe pair number (element in the hash box).
+
+
+Example 2.
+A more physical example of a hash table might be a library card catalog.  Most libraries will hold thousands of books at a time, and it is unreasonable to expect anyone to look through every book in a library to find the one they are looking for.  Enter the card catalog, a way of entering some information about a particular book, and recieving a general location in return.  You can look up the title of a book, and a card catalog will tell you, in general, where to look for it.  It may not be a perfect location, but looking through one shelf of books is a lot easier then searching through the whole library.
