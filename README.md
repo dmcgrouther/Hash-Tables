@@ -19,8 +19,13 @@ Example 2.
 A more physical example of a hash table might be a library card catalog.  Most libraries will hold thousands of books at a time, and it is unreasonable to expect anyone to look through every book in a library to find the one they are looking for.  Enter the card catalog, a way of entering some information about a particular book, and recieving a general location in return.  You can look up the title of a book, and a card catalog will tell you, in general, where to look for it.  It may not be a perfect location, but looking through one shelf of books is a lot easier then searching through the whole library.
 
 
-
+Different type of Questions that can be solved using Hash Tables:
+1. Calculation of hash values for given keys.
+2. Insertion of keys into hash table using linear probing as collision resolution technique.
+3. Given a hash table with keys, verify/find possible sequence of keys leading to hash table.
 
 Sources
+
 https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/
 https://leetcode.com/tag/hash-table/
+https://www.geeksforgeeks.org/practice-problems-on-hashing/
