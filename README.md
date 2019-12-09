@@ -10,3 +10,6 @@ Enter collisions. The problem with adding your words in at a certain number (in 
 For instance, the words "four", "none", and "dice" all have length four and would be in the four length bucket.
 
 What the hashing algorithm would also be able to do is find that a certain word is in a particular bucket. This helps effectively skip the line so that the developer can get to the correct bucket and search there.
+
+Example 1.
+When you go bowling and you swap your shoes for bowling shoes. They take your shoes, put them in the bowling shoe box that includes your size, and give you the shoes and a token which has the size (hash) and the shoe pair number (element in the hash box).
